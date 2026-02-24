@@ -3,30 +3,11 @@
     padding: 0;
     box-sizing: border-box;
 }
-/* body{
-    background-image: url(pres/0.png);
-    background-position: center;
-    background-repeat: repeat-y;
-}
-.cont{
-    width: 712px;
+body{
+        max-width: 1352px;
     margin: 0 auto;
+    width: 100%;
 }
-.b1{
-    padding-top: 120px;
-    text-align: center;
-    font-size: 55px;
-    height: 680px;
-}
-span{
-    color: crimson;
-}
-.p_column{
-    font-size: 24px;
-}
-.b2{
-    display: flex;
-} */
  .b1{
     background-image: url(pres/67.png);
     background-position: center;
@@ -83,4 +64,5 @@ span{
     background-position: center;
     height: 1024px;
 }
+
 
