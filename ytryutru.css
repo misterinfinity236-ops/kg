@@ -1,12 +1,13 @@
+html{
+    min-width: 1350px;
+}
 *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
 body{
-        max-width: 1352px;
-    margin: 0 auto;
-    width: 100%;
+    min-width: 1350px;
 }
  .b1{
     background-image: url(pres/67.png);
@@ -64,5 +65,6 @@ body{
     background-position: center;
     height: 1024px;
 }
+
 
 
