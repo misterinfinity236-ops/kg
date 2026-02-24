@@ -1,5 +1,5 @@
 html{
-    min-width: 1350px;
+    min-width: 1024px;
 }
 *{
     margin: 0;
@@ -7,7 +7,7 @@ html{
     box-sizing: border-box;
 }
 body{
-    min-width: 1350px;
+    min-width: 1024px;
 }
  .b1{
     background-image: url(pres/67.png);
@@ -65,6 +65,7 @@ body{
     background-position: center;
     height: 1024px;
 }
+
 
 
 
