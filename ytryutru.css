@@ -1,5 +1,5 @@
 html{
-    min-width: 1024px;
+    min-width: 1350px;
 }
 *{
     margin: 0;
@@ -12,60 +12,67 @@ body{
  .b1{
     background-image: url(pres/67.png);
     background-position: center;
-    height: 700px;
+    height: 849px;
+    background-repeat: no-repeat;
  }
  .b2{
      background-image: url(pres/1.png);
     background-position: center;
     height: 1024px;
+    background-repeat: no-repeat;
  }
 .b3{
     background-image: url(pres/2.png);
     background-position: center;
     height: 1024px;
+    background-repeat: no-repeat;
 }
 .b4{
      background-image: url(pres/69.png);
     background-position: center;
     height: 1024px;
+    background-repeat: no-repeat;
 }
 .b5{
      background-image: url(pres/4.png);
     background-position: center;
     height: 1024px;
+    background-repeat: no-repeat;
 }
 .b6{
      background-image: url(pres/5.png);
     background-size: 79%;
     background-position: center top;
     height: 655px;
+    background-repeat: no-repeat;
 }
 .b7{
      background-image: url(pres/6.png);
     background-position: center;
     height: 1024px;
+    background-repeat: no-repeat;
 }
 .b8{
      background-image: url(pres/7.png);
     background-position: center;
     height: 1024px;
+    background-repeat: no-repeat;
 }
 .b9{
      background-image: url(pres/8.png);
     background-position: center;
     height: 1024px;
+    background-repeat: no-repeat;
 }
 .b10{
      background-image: url(pres/9.png);
     background-position: center;
     height: 1024px;
+    background-repeat: no-repeat;
 }
 .b11{
      background-image: url(pres/10.png);
     background-position: center;
     height: 1024px;
+    background-repeat: no-repeat;
 }
-
-
-
-
